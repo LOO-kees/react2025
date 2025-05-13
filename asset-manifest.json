@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react2025/static/css/main.df71d158.css",
+    "main.js": "/react2025/static/js/main.f51049bb.js",
+    "static/media/modu_01.jpg": "/react2025/static/media/modu_01.94d5fdccf689909fb0be.jpg",
+    "static/media/modu_02.jpg": "/react2025/static/media/modu_02.d799a4038c59ab2ec9f8.jpg",
+    "index.html": "/react2025/index.html",
+    "main.df71d158.css.map": "/react2025/static/css/main.df71d158.css.map",
+    "main.f51049bb.js.map": "/react2025/static/js/main.f51049bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df71d158.css",
+    "static/js/main.f51049bb.js"
+  ]
+}
